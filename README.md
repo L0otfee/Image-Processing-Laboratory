@@ -40,7 +40,7 @@ Streamlit Image Processing App เป็นแอปพลิเคชันท�
 ## Clone โปรเจกต์
 
 ```bash
-git clone https://github.com/L0otfee/PSU-Note-App.git
+git clone git@github.com:L0otfee/Image-Processing-Laboratory.git
 cd prototype
 ```
 
@@ -63,7 +63,6 @@ cd prototype
 
 - **streamlit_image_app.py**: ไฟล์หลักของแอปพลิเคชัน
 - **requirements.txt**: รายการ dependencies ที่ต้องติดตั้ง
-- **templates/**: โฟลเดอร์ที่เก็บไฟล์ HTML สำหรับ UI
 
 ## ตัวอย่างผลการแสดง
 
