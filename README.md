@@ -69,13 +69,15 @@ cd prototype
 ## รายละเอียดการใช้งานแต่ละฟีเจอร์
 
 ### 1. อัปโหลดภาพ
-- ผู้ใช้สามารถอัปโหลดภาพจากไฟล์ในเครื่อ
+- ผู้ใช้สามารถอัปโหลดภาพจากไฟล์ในเครื่อง
 - รองรับไฟล์ประเภท PNG, JPG, JPEG
-<img width="1440" height="848" alt="Screenshot 2568-08-31 at 13 39 41" src="https://github.com/user-attachments/assets/34e67c6c-f7f8-40c0-ae53-f61aa9fe280b" />
+<img width="1440" height="850" alt="Screenshot 2568-08-31 at 14 01 16" src="https://github.com/user-attachments/assets/af9df159-5412-4462-a4c7-844643b1e66e" />
 
 - เลือกใช้กล้องเพื่อถ่ายภาพใหม่
 <img width="1433" height="846" alt="Screenshot 2568-08-31 at 13 18 35" src="https://github.com/user-attachments/assets/2d83a9db-e072-45ea-b1e0-8cedf0f4bf6b" />
 
+- มีตัวอย่างภาพ (Sample Images) ให้เลือกใช้งาน เช่น Portrait Style, Checkerboard Pattern, Random Noise, Color Gradient, และ Geometric Shapes
+  <img width="1440" height="849" alt="Screenshot 2568-08-31 at 14 00 12" src="https://github.com/user-attachments/assets/a3daaac5-5a7f-466c-9a1d-f8f6036c9ed6" />
 
 ### 2. การปรับแต่งภาพ
 - **การแปลงภาพเป็น Grayscale**: แปลงภาพสีให้เป็นภาพขาวดำ เหมาะสำหรับการลดความซับซ้อนของข้อมูลภาพ
